@@ -19,10 +19,11 @@ This section provides instructions on how to train and customize the model for y
 
 ### Prerequisites
 
-Make sure you have the following installed on your system:
+Make sure you have the following recommended packages are installed on your system:
 
-- Python (version X.X.X)
-- [Any other dependencies or tools required for training]
+- Python (version >3.8)
+- Pytorch (version >2.0)
+- Matplotlib
 
 ### Installation
 
