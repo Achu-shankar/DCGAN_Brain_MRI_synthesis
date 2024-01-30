@@ -21,8 +21,8 @@ This section provides instructions on how to train and customize the model for y
 
 Make sure you have the following recommended packages are installed on your system:
 
-- Python (version >3.8)
-- Pytorch (version >2.0)
+- Python  (version >=3.8)
+- Pytorch (version >=2.0)
 - Matplotlib
 
 ### Installation
