@@ -1,5 +1,9 @@
 # DCGAN Brain MRI Synthesis
 
+<a target="_blank" href="https://colab.research.google.com/github/Achu-shankar/DCGAN_Brain_MRI_sythesis/blob/main/DCGan_MRI_generator.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Train
 
 This section provides instructions on how to train and customize the model for your specific needs.
