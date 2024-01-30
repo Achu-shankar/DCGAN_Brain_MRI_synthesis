@@ -4,13 +4,6 @@
 
 This section provides instructions on how to train and customize the model for your specific needs.
 
-### Prerequisites
-
-Make sure you have the following installed on your system:
-
-- Python (version X.X.X)
-- [Any other dependencies or tools required for training]
-
 ### Installation
 
 ## Train
